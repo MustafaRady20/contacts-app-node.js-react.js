@@ -1,0 +1,14 @@
+.signin .container{
+    width: 500px ;
+}
+.signin .links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.signin .forgetPass{
+    cursor: pointer;
+    color: #26253f;
+    margin-bottom: -10px;
+}

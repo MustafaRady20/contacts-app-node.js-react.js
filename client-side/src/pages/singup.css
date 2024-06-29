@@ -1,0 +1,13 @@
+
+.checkbox label {
+    color: #26253f;
+}
+
+.checkbox label span {
+    color: var(--third-color);
+    cursor: pointer;
+}
+
+input{
+    outline: none;
+}
